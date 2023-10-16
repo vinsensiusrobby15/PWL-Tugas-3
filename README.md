@@ -42,4 +42,4 @@ npm test
 
 ### Test Result
 
-[!result.png](/src/assets/result.PNG)
+![result.png](./src/assets/result.PNG)
